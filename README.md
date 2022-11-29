@@ -38,12 +38,3 @@ To run training using alexnet,
 `sh run_train.sh gpu_id method alexnet`
 
 where, gpu_id = 0,1,2,3...., method=[MME,ENT,S+T].
-
-
-### Reference
-This implementation is based on the base MME implementation from [Kuniaki Saito](http://cs-people.bu.edu/keisaito/) and [Donghyun Kim](https://cs-people.bu.edu/donhk/)
-
-
-
-
-
